@@ -4,7 +4,7 @@
 - On the Mic:
   - Matt, :octocat: [@beardofedu](http://github.com/beardofedu)
 - On Gitter:
-  - Hector, :octocat: [@brianamarie](http://github.com/hectorsector)
+  - Hector, :octocat: [@hectorsector](http://github.com/hectorsector)
 - :email: [services@github.com](mailto:services@github.com)
 
 ### Before We Begin
