@@ -4,7 +4,8 @@
 ### Places to Visit
 - Acropolis Museum
 - Syntagma Square 🔳
-- Parliament
+- Greek Parliament
+- National Archeological Museum
 
 ### Places to Eat
-- Psarrou
+- Psarrou (good especially for pickled :octopus:)
