@@ -1,7 +1,9 @@
 # Dhaka, Bangladesh
 
 ### Places Visit
-
+- Dhaka University
+- Dhanmondi Lake
+- Parliament Building
 
 
 ### Places to Eat
