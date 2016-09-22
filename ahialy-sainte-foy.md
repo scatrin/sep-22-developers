@@ -4,5 +4,5 @@
 - La Citadelle
 
 ### Places to Eat
-- La voie maltee for :Beer: & :Gourmets:
-- Ashton for :Local Speciality:
+- La voie maltee for Beer & Gourmets
+- Ashton for Local Speciality
