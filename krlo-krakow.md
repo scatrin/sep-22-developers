@@ -4,7 +4,7 @@
 
 
 ### Places to Eat
-- Mamma Mia for :pizza: & :vine:
+- Mamma Mia for :pizza: & :wine:
 - Pies z Buda
 
 
