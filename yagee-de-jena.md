@@ -1,6 +1,6 @@
 # Jena, Germany
 
-### Places to visit
+### Places to Visit
  - Kernberge, local hills surrounding Jena
  - JenTower, skyline defining tower here
  - Paradies makes us the greenest town in this country
