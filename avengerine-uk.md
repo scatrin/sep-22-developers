@@ -1,6 +1,7 @@
 # UK
 
 ### Places to visit
+   Bath, a beautiful city to visit
 
 ### Place to eat
    For :beer: The Dovetail in London, belgian beers also belgian food
