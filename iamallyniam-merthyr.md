@@ -2,6 +2,7 @@
 
 ### Places to visit
 - Morlais Castle
+- Aberglais
 
 
 ### Places to eat
