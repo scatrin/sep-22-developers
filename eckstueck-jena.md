@@ -2,6 +2,7 @@
 
 ### Places to Visit
 - JenTower
+- Paradies
 
 ### Places to Eat
 - Stilbruch
