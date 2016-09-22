@@ -3,4 +3,4 @@
 ### Places to eat
 - Wright Brothers, Spitalfield for :fish:
 - Myung Ga for Korean BBQ :meat_on_bone:
-- Bao for Taiwanese Bao.
+- Bao for Taiwanese baozi.
