@@ -4,4 +4,4 @@
 
 
 ### Places to Eat
- Indian garden restaurant for :Indian: 
+ Indian garden restaurant for :beer: 
