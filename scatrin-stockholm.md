@@ -2,4 +2,4 @@
 ### Södertälje
 - Visit the museum Tom Tit's Experiment
 - Visit MW-hallen at Scania to see the new truck generation
-- Have a beer at Old McLovis
+- Have a :beer: at Old McLovis
