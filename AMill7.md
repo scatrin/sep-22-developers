@@ -11,10 +11,10 @@
 
 
 ### Emoticons
-  - :tacos:
+  - :octocat: 
   - :beer:
-  - :happy:
-  - :sad:
+  - :grinning: 
+  - :cry:
 
 
 
