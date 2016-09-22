@@ -7,4 +7,4 @@
 - Parliament
 
 ### Places to Eat
-- Psarrou
+- Psarrou (good especially for pickled :octopus:)
