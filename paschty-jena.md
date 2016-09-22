@@ -3,7 +3,8 @@
 
 ### Places to Visit
 - Planetarium
-- Intershoptower
+- JenTower
+- Landgrafen
 
 ### Places to Eat
 - Liebstöckel 
