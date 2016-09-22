@@ -1,10 +1,10 @@
 # Tampa, Fl
 
-### Places Visit
-
+### Places to Visit
+- The Sponge Docks, to get sponges and other souvenirs 
 
 
 ### Places to Eat
-- Dunedin Brewery for :tacos: & :beer:
+- Dunedin Brewery for :beer:
 - The Place for sandwiches
 - Demitiri's on the Water  
