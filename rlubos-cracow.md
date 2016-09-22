@@ -1,6 +1,7 @@
 # Cracow, PL
 
 ### Hello World
+ - This change was made with github editor.
 
 ### Goodbye World
  - entry1
