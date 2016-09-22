@@ -1,7 +1,8 @@
 # Ralieh, NC
 
 ### places visit
-
+- Art Museum
+- Marbles Museum
 
 
 
@@ -9,4 +10,3 @@
 - *Biriyani Max*
 - *Jouele Coffee bar*
 - *Bawarchi*
-- test
