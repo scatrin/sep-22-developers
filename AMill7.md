@@ -7,7 +7,7 @@
 
 
 ### Places Visit
-
+  - Fort DeSoto for camping
 
 
 ### Emoticons
