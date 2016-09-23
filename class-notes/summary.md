@@ -7,7 +7,6 @@ These are for use during webinars of GitHub for Developers. They are organized b
 
 ### Getting Started
 **Quick review of what we've covered so far:**
-- Repository for Class: https://github.com/githubteacher/sep-19-developers
 - Tour of Repository: 
   - Code View:  Files belonging to the project
   - README.md: Description of the Repository 
