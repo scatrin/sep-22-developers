@@ -5,3 +5,6 @@
   - Gothenburg
   - Mälmö
   - Mariefred
+
+### Places to Eat
+  - Indian Garden restaurant in Stockholm
