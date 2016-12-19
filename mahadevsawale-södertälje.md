@@ -1,6 +1,6 @@
 # Södertälje, Sweden
 
-### Placess Visit
+### Places to Visit
   - Stockholm
   - Gothenburg
   - Mälmö
