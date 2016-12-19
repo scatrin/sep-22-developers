@@ -8,8 +8,8 @@
 
 
 ### Places to eat
-- Copper Chimney :food:
-- Hamara :hamburgers: 
+- Copper Chimney for Indian
+- Hamara for hamburgers 
 
 
 
