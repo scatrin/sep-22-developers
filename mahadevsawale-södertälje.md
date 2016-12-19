@@ -4,3 +4,4 @@
   - Stockholm
   - Gothenburg
   - Mälmö
+  - Mariefred
